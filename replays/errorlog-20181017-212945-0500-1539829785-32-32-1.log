@@ -1,0 +1,14 @@
+
+Turn 1
+================================================================
+error: communication error with bot: Problem writing to pipe, errno was: 0 (No error)
+Last input received was:
+
+  File "MyBot.py", line 5, in <module>
+    import hlt
+  File "C:\Users\Matt\Documents\saltpicus\hlt\__init__.py", line 3, in <module>
+    from . import commands, entity, game_map, networking, constants
+  File "C:\Users\Matt\Documents\saltpicus\hlt\entity.py", line 1, in <module>
+    from abc import ABC
+ImportError: cannot import name ABC
+
